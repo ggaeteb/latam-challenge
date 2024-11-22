@@ -1,0 +1,5 @@
+memory-profiler==0.61.0
+anaconda==2.6.3
+JupyterLab==4.2.5
+Python== 3.12.7
+pandas==2.2.2
